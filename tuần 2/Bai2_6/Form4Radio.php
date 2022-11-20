@@ -7,6 +7,7 @@
             $contact = $_POST['contact'];
             print ("<br>Your email address is $email");
             print ("<br>Contact preference is $contact");
+            
         ?>
     </body>
 </html>
