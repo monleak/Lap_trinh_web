@@ -5,7 +5,7 @@
     
     <body>
         <?php
-            $host = 'localhost';
+            $host = 'localhost:3306';
             $user = 'it4552';
             $passwd = 'it4552_2022';
             $database = 'business_service';
