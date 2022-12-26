@@ -11,7 +11,7 @@
     
     <body>
         <?php
-            $host = 'localhost';
+            $host = 'localhost:8889';
             $user = 'it4552';
             $passwd = 'it4552_2022';
             $database = 'business_service';

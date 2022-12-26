@@ -1,0 +1,39 @@
+body{
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: purple;
+    background-color: aqua;
+}
+u1.navbar{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em
+}
+h1{
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+}
+u1.navbar li {
+    background: white;
+    margin: 0.5em;
+    padding: 0.3em;
+    border-right: 1em solid black
+}
+ul.navbar a {
+    text-decoration: none
+}
+
+a:link {
+    color: rgb(221, 9, 37) 
+}
+a:visited {
+    color: rgb(46, 236, 29) 
+}
+address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted 
+}
